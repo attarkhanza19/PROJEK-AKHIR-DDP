@@ -16,13 +16,14 @@ Program ini bernamakan "SUATIS FEST" yang dibuat untuk mempermudah pengguna dala
 
 # FLOWCHART
 Tampilan Menu Utama
-<img width="1956" height="1392" alt="image" src="https://github.com/user-attachments/assets/52be63c7-e4bb-4aa0-bc3d-63901b0d9631" />
+<img width="1956" height="1403" alt="image" src="https://github.com/user-attachments/assets/13fc0cad-35d9-4315-aacb-78e9d352dc69" />
 
 Tampilan Menu Panitia
-<img width="2568" height="4091" alt="image" src="https://github.com/user-attachments/assets/d2f362d9-ee65-41a4-8a8d-a8bbaf014d21" />
+<img width="2569" height="4092" alt="image" src="https://github.com/user-attachments/assets/e15bf996-a6eb-4db8-95b9-25134626ffb2" />
 
 Tampilan Menu User
-<img width="1811" height="2531" alt="image" src="https://github.com/user-attachments/assets/b76b59f8-5962-4be7-8dcc-efb98811bdfe" />
+<img width="1810" height="2532" alt="image" src="https://github.com/user-attachments/assets/7f9eb191-c592-43e9-9bf2-0f82581955fb" />
+
 
 
 

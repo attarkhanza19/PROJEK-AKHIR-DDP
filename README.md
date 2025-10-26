@@ -1,6 +1,6 @@
 
 # PROFIL KELOMPOK 5
-Tema   : Manajemen Pendftaran & Acara
+Tema   : Manajemen Pendaftaran & Acara
 
 Anggota:
 

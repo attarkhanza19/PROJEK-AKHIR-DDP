@@ -1,0 +1,17 @@
+[
+    {
+        "Nama": "jason",
+        "Password": "12345",
+        "Saldo": 0
+    },
+    {
+        "Nama": "billie",
+        "Password": "54321",
+        "Saldo": 10000000
+    },
+    {
+        "Nama": "okegas",
+        "Password": "okegas",
+        "Saldo": 5000000
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "nomor_konser": 1,
+        "nama_konser": "raim laode",
+        "Tanggal": "20-02-2025",
+        "Waktu_konser": {
+            "Waktu_mulai": "16:00",
+            "Waktu_selesai": "22:00"
+        },
+        "Kategori": [
+            "VVIP",
+            "VIP",
+            "Festival"
+        ],
+        "Harga": {
+            "VVIP": 1000000,
+            "VIP": 800000,
+            "Festival": 600000
+        },
+        "Stok": {
+            "VVIP": 50,
+            "VIP": 40,
+            "Festival": 30
+        }
+    },
+    {
+        "nomor_konser": 2,
+        "nama_konser": "afgan",
+        "Tanggal": "14-05-2025",
+        "Waktu_konser": {
+            "Waktu_mulai": "08:00",
+            "Waktu_selesai": "23:00"
+        },
+        "Kategori": [
+            "VVIP",
+            "VIP",
+            "Festival"
+        ],
+        "Harga": {
+            "VVIP": 900000,
+            "VIP": 700000,
+            "Festival": 500000
+        },
+        "Stok": {
+            "VVIP": 40,
+            "VIP": 26,
+            "Festival": 20
+        }
+    }
+]

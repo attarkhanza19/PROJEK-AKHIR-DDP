@@ -1,0 +1,77 @@
+[
+    {
+        "nomor_konser": 1,
+        "nama_konser": "afgan",
+        "Tanggal": "25-09-2025",
+        "Waktu_konser": {
+            "Waktu_mulai": "14:00",
+            "Waktu_selesai": "19:00"
+        },
+        "Kategori": [
+            "VVIP",
+            "VIP",
+            "Festival"
+        ],
+        "Harga": {
+            "VVIP": 1000000,
+            "VIP": 800000,
+            "Festival": 600000
+        },
+        "Stok": {
+            "VVIP": 4,
+            "VIP": 1,
+            "Festival": 2
+        },
+        "waktu_dihapus": "26-10-2025 13:54:37"
+    },
+    {
+        "nomor_konser": 2,
+        "nama_konser": "raim",
+        "Tanggal": "15-06-2025",
+        "Waktu_konser": {
+            "Waktu_mulai": "17:00",
+            "Waktu_selesai": "23:00"
+        },
+        "Kategori": [
+            "VVIP",
+            "VIP",
+            "Festival"
+        ],
+        "Harga": {
+            "VVIP": 1000000,
+            "VIP": 800000,
+            "Festival": 600000
+        },
+        "Stok": {
+            "VVIP": 50,
+            "VIP": 40,
+            "Festival": 30
+        },
+        "waktu_dihapus": "26-10-2025 15:14:41"
+    },
+    {
+        "nomor_konser": 1,
+        "nama_konser": "judika",
+        "Tanggal": "20-02-2025",
+        "Waktu_konser": {
+            "Waktu_mulai": "15:00",
+            "Waktu_selesai": "20:00"
+        },
+        "Kategori": [
+            "VVIP",
+            "VIP",
+            "Festival"
+        ],
+        "Harga": {
+            "VVIP": 800000,
+            "VIP": 600000,
+            "Festival": 400000
+        },
+        "Stok": {
+            "VVIP": 398,
+            "VIP": 200,
+            "Festival": 90
+        },
+        "waktu_dihapus": "26-10-2025 16:11:39"
+    }
+]
